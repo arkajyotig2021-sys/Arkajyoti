@@ -1,0 +1,6 @@
+{
+  "name": "Screen Wellbeing",
+  "description": "Customizable Material You Digital Wellbeing dashboard with compact screen time editors and a synced home screen Screen Time widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

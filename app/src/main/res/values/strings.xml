@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Screen Wellbeing</string>
+    <string name="widget_name">Screen time</string>
+    <string name="widget_description">Shows your daily screen time total and top 3 apps.</string>
+    <string name="widget_header">Screen time</string>
+    <string name="widget_empty">No app usage logged today</string>
+    <string name="cd_edit_dashboard">Edit screen time and totals</string>
+    <string name="cd_widget_preview">Home screen widget preview and options</string>
+    <string name="cd_add_app">Add app usage entry</string>
+    <string name="cd_app_timer">Set app timer</string>
+</resources>
